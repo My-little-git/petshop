@@ -1,0 +1,15 @@
+body{
+  min-height: 100vh;
+}
+
+header{
+  height: 80px;
+}
+
+.auth__inner{
+  height: calc(100vh - 80px);
+}
+
+.devis__inner{
+  height: 70px;
+}
